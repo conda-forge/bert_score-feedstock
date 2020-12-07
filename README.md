@@ -5,11 +5,13 @@ Home: https://github.com/Tiiiger/bert_score
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bert_score-feedstock/blob/master/LICENSE.txt)
 
 Summary: PyTorch implementation of BERT score
 
+Development: https://github.com/Tiiiger/bert_score
 
+Documentation: https://pypi.org/project/bert-score/
 
 Current build status
 ====================
