@@ -1,5 +1,5 @@
 {% set name = "bert_score" %}
-{% set version = "0.3.7" %}
+{% set version = "0.3.8" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 6ae0dafb2e2d92dc313f9c6bf6bcd7d4d9af6bf7bc53086e40b9a87f2140cc67
+  sha256: 6da9193dfdf35e47ac731308193bf662645999eb9b6f5f60349369d06071d8e6
 
 build:
   number: 0
